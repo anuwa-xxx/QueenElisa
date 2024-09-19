@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==AOYl1cZRlNwJjbDVDTqVWUqVzTS9ENiZ3bIlHeoN0UNhmY0oVePRGRPJXTjkkUSV1QwQGNpwd=55909838749',
-  ALIVE_REACT: '👋',
+  SESSION_ID: 'QUEENELISA;;;==wcPJkS49UT0ZHSWpmRVZmSXdEcJhWdw5Wdwg3SBFGZ08UY3Q3Zhd0bzYjejoFTBpHW0ZFOpwd=55909838749',
+  ALIVE_REACT: '💃',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
@@ -25,7 +25,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: 'ｘ 𝛮𝛪〽️𝛥𝛥   🌀',
-  OWNER_NUMBER: '94715166712',
+  OWNER_NUMBER: '94779164028',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
